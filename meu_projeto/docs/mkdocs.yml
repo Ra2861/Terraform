@@ -1,0 +1,33 @@
+# mkdocs.yml
+
+# Configuração do site
+site_name: Meu Projeto de Documentação
+site_description: Uma descrição opcional do meu projeto de documentação.
+
+# Configuração da navegação
+nav:
+  - Página Inicial: index.md
+  - Sobre: about.md
+  - Guia de Uso:
+      - Instalação: installation.md
+      - Configuração: configuration.md
+      - Uso Básico: basic_usage.md
+  - Referência:
+      - API: api.md
+      - Comandos: commands.md
+
+# Configuração do tema
+theme:
+  name: material
+  logo: img/logo.png
+  favicon: img/favicon.ico
+  palette:
+    primary: indigo
+    accent: pink
+
+# Configuração de plugins (opcional)
+plugins:
+  - search
+  - toc:
+      permalink: true
+      toc_depth: 3
