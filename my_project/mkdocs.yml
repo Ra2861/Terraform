@@ -1,0 +1,6 @@
+site_name: "Documentação do Meu Projeto"
+theme:
+  name: "material"
+nav:
+  - Home: index.md
+  - Sobre: about.md
