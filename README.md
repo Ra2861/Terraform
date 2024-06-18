@@ -88,6 +88,7 @@ terraform apply
 ```
 ![image](https://github.com/Ra2861/Terraform/assets/99209068/77480b5f-988f-498d-ab2a-dce550e15f28)
 
+![image](https://github.com/Ra2861/Terraform/assets/99209068/2a653381-f9b4-48fd-b7a7-0f64c39d1418)
 
 
 ## Limpar os recursos
@@ -97,3 +98,4 @@ Para limpar todos os recursos provisionados, execute o seguinte comando:
 ```bash
 terraform destroy
 ```
+![image](https://github.com/Ra2861/Terraform/assets/99209068/dfcc40b4-ad2e-4ee8-bc11-7c63b7a95b70)
