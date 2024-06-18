@@ -67,6 +67,8 @@ Inicialize o Terraform no seu diretório de projeto:
 ```bash
 terraform init
 ```
+![image](https://github.com/Ra2861/Terraform/assets/99209068/f8477005-c590-4d33-8e76-4bf6d448dea5)
+
 
 ## Executar um plano do Terraform
 
@@ -75,6 +77,7 @@ Crie um plano de execução para verificar se a configuração está correta:
 ```bash
 terraform plan
 ```
+![image](https://github.com/Ra2861/Terraform/assets/99209068/e65f551f-ee62-4969-9667-c014782cc8d5)
 
 ## Aplicar a configuração do Terraform
 
@@ -83,6 +86,7 @@ Aplique a configuração para provisionar os recursos na AWS:
 ```bash
 terraform apply
 ```
+![image](https://github.com/Ra2861/Terraform/assets/99209068/77480b5f-988f-498d-ab2a-dce550e15f28)
 
 
 
